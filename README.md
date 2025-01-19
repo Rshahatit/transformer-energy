@@ -1,5 +1,3 @@
-Collecting workspace information
-
 # Transformer Energy
 
 <img width="1401" alt="Screenshot 2025-01-19 at 1 04 40 PM" src="https://github.com/user-attachments/assets/cb1baa41-190a-49cf-92ba-742328e11aa7" />
