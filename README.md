@@ -2,6 +2,9 @@ Collecting workspace information
 
 # Transformer Energy
 
+<img width="1401" alt="Screenshot 2025-01-19 at 1 04 40 PM" src="https://github.com/user-attachments/assets/cb1baa41-190a-49cf-92ba-742328e11aa7" />
+
+
 ## Overview
 
 Transformer.energy is a platform that connects renewable energy project developers with local talent and resources to accelerate clean energy deployment across the United States. The platform helps overcome development hurdles by providing project insights, ESG scoring, and networking capabilities.
